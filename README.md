@@ -54,6 +54,7 @@
 - [Cohere API](https://docs.cohere.com/) – NLP models for embeddings, RAG, generation, and semantic search.
 - [Hugging Face Inference API](https://huggingface.co/inference-api) – Hosted inference for thousands of ML models.
 - [Replicate API](https://replicate.com/) – Cloud API for running open-source ML models at scale.
+- [Muapi](https://muapi.ai/) – Unified API for hosted image, video, and audio generation, including an OpenAI-compatible image-generation endpoint.
 - [AssemblyAI](https://www.assemblyai.com/) – Speech-to-text API with summarization, sentiment, and topic extraction.
 
 ## Mapping, Geospatial & Location APIs
